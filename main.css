@@ -1,0 +1,30 @@
+body{
+  background:url('background.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+#main {
+  max-width:560px;
+  margin:auto;
+}
+
+#title {
+  max-width:560px;
+  margin:10px auto;
+}
+
+iframe {display:block;}
+
+.center {
+  padding:20px;
+  font-size:0.8em;
+  text-align:center;
+  font-family:"helvetica", sans-serif;
+  color:#ffffff;
+}
+
+.center a {
+  text-decoration:none;
+  color:#30e3ff;
+}
