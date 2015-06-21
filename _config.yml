@@ -1,0 +1,18 @@
+# Site settings
+title: From the Verge to the Void
+email: teamsunbear@gmail.com
+copyright: 2015 Team Sunbear
+description: >
+  Take to the stars on an adventure through space to find out whodunnit,
+  what they done, and why. Blow up and scavenge derelict space stations,
+  Ships and other treasure troves to collect "Guild", the power source
+  that keeps your ship running.
+smalldescription: >
+  Space Western 3D platformer in VR. Brought to you by Team Sunbear.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fromthevergetothevoid.com" # the base hostname & protocol for your site
+twitter_username: teamsunbear
+facebook_username: teamsunbear
+
+# Build settings
+markdown: kramdown
