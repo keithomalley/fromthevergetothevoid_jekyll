@@ -3,7 +3,10 @@
  */
 .site-header {
     min-height: 56px;
-
+    background:url('/img/bg.png');
+    background-repeat:no-repeat;
+    background-position: 0px -140px;
+    background-size: cover;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
